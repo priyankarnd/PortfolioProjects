@@ -12,7 +12,8 @@ DataCleaningQuery.sql
 
 
 
-postgres-challenge.sql:
+postgres-challenge.sql Challenge:
+
 At ABC Company, each year every employee is given a percentage based increment to their salaries based on the departments they belong to. You have to write a Python or psql script(s) to read from flat_data.csv and store into employees and department DB tables in the schema below. Furthermore you need to read tables from the database, calculate the updated salaries and write them back. Please note that you will need to create these tables in the PostgreSQL.
 
 The database contains the following schemas:
