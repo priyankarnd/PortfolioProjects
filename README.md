@@ -1,4 +1,4 @@
-This repository is a showcase of my portfolio projects to join in a Data Analyst position.
+This repository is a showcase of my portfolio projects for starting as an entry level Data Analyst.
 
 SQLQuery1.sql:
 Covid-19 Death dataset from https://ourworldindata.org/covid-deaths is used and the data is processed in MS Excel. The Excel files are imported in the MS SQL Server and then SQL queries are performed to retrieve the required information as described in the comments in the file.
